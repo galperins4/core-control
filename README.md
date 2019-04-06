@@ -1,9 +1,9 @@
-# Core v2 Management Tool - Ark Mainnet (yarn pkg install)
+# Core v2 Management Tool - Phantom Mainnet (yarn pkg install)
 
 ## Installation
 
 ```sh
-git clone https://github.com/geopsllc/core-control
+git clone https://github.com/geopsllc/core-control -b phantom-mainnet
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
