@@ -1,4 +1,4 @@
-# Core v2 Management Tool - Phantom Mainnet (yarn pkg install)
+# Core v2 Management Tool - Phantom Mainnet (pkg install)
 
 ## Installation
 
