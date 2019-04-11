@@ -1,9 +1,9 @@
-# Core v2 Management Tool - Teton Mainnet (git install)
+# Core v2 Management Tool - Teton Mainnet
 
 ## Installation
 
 ```sh
-git clone https://github.com/geopsllc/core-control -b teton-mainnet
+git clone https://github.com/geopsllc/core-control
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
