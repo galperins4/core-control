@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/geopsllc/core-control -b persona-mainnet-v2.3
+git clone https://github.com/geopsllc/core-control -b persona-mainnet
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
