@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/tetondevelopment/core-control
+git clone https://github.com/geopsllc/core-control -b teton-mainnet
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
